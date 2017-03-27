@@ -1,4 +1,4 @@
 # til
 Today I learn. 
 
-Warning: I English is bad. Sorry for that. :sob:
+Warning: My English is bad. Sorry for that. :sob:
