@@ -43,7 +43,7 @@ PING 168.95.1.1 (168.95.1.1): 56 data bytes
 64 bytes from 168.95.1.1: icmp_seq=3 ttl=248 time=22.049 ms
 ```
 
-God job, Hinet!
+Good job, Hinet!
 
 First, time value is smaller the better. And the second is ttl (Time-to-live).
 
