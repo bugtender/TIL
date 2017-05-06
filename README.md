@@ -1,4 +1,5 @@
 # til
-Today I learn. 
 
-Warning: My English is bad. Sorry for that. :sob:
+Today I learned. 
+
+:warning: Warning: My English is bad. Sorry for that. :sob:
