@@ -39,6 +39,7 @@ Does the knowledge base need an update?
 Does this add new (Python) dependencies which need to be added to chef?
 ```
 
+- - -
 
 ## 關於 GihHub Pull Request 範本
 
