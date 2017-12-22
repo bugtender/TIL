@@ -1,4 +1,4 @@
-## Aboud JWT
+## About JWT
 
 JWT(JSON Web Token). A stateless and small size token.
 
